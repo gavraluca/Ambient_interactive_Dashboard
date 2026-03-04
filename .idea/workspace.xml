@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7860116-21e6-40cb-bc22-358fa2dc3973" name="Changes" comment="Uploaded default current_data." />
+    <list default="true" id="d7860116-21e6-40cb-bc22-358fa2dc3973" name="Changes" comment="Uploaded default current_data.">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772616278816</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Uploaded default current_data.">
+      <option name="closed" value="true" />
+      <created>1772616317194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772616317194</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Uploaded default current_data.">
+      <option name="closed" value="true" />
+      <created>1772616387219</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772616387219</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
