@@ -21,3 +21,7 @@ def update_data():
         return jsonify({"Confirmation " : " SUCCES" , "Message " : " Data saved!"}), 200
     return jsonify({"Confirmation " : " ERROR" , "Message " : " INVALID DATA!"}), 400
 
+#WEB interface reads data
+@app.route('/api/data', methods=['GET'])
+def get_data():
+    return jsonify(current_data)
