@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7860116-21e6-40cb-bc22-358fa2dc3973" name="Changes" comment="Added function for reading data (GET)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="d7860116-21e6-40cb-bc22-358fa2dc3973" name="Changes" comment="The final version.&#10;&#10;+ fixed name gas_lvl --&gt; quality_lvl as my sensors do not measure gas (I thought one of them did)..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +144,31 @@
       <option name="project" value="LOCAL" />
       <updated>1772617109676</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="The final version.&#10;&#10;+ fixed name gas_lvl --&gt; quality_lvl as my sensors do not measure gas (I thought one of them did)...">
+      <option name="closed" value="true" />
+      <created>1773226429979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773226429979</updated>
+    </task>
+    <task id="LOCAL-00011" summary="The final version.&#10;&#10;+ fixed name gas_lvl --&gt; quality_lvl as my sensors do not measure gas (I thought one of them did)...">
+      <option name="closed" value="true" />
+      <created>1773226474440</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773226474440</updated>
+    </task>
+    <task id="LOCAL-00012" summary="The final version.&#10;&#10;+ fixed name gas_lvl --&gt; quality_lvl as my sensors do not measure gas (I thought one of them did)...">
+      <option name="closed" value="true" />
+      <created>1773226628099</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773226628099</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +176,7 @@
     <MESSAGE value="Uploaded default current_data." />
     <MESSAGE value="Implemented code for ESP32 WI-FI communication" />
     <MESSAGE value="Added function for reading data (GET)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added function for reading data (GET)" />
+    <MESSAGE value="The final version.&#10;&#10;+ fixed name gas_lvl --&gt; quality_lvl as my sensors do not measure gas (I thought one of them did)..." />
+    <option name="LAST_COMMIT_MESSAGE" value="The final version.&#10;&#10;+ fixed name gas_lvl --&gt; quality_lvl as my sensors do not measure gas (I thought one of them did)..." />
   </component>
 </project>
