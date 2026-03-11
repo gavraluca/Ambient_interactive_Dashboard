@@ -17,7 +17,7 @@ def update_data():
 
     if data:
         current_data.update(data)
-        print(f"New data --- Temp: {current_data['temp']}°C --- Gas: {current_data['quality_lvl']}")
+        print(f"New data --- Temp: {current_data['temp']}°C --- Air Quality: {current_data['quality_lvl']}")
         return jsonify({"Confirmation " : " SUCCES" , "Message " : " Data saved!"}), 200
     return jsonify({"Confirmation " : " ERROR" , "Message " : " INVALID DATA!"}), 400
 
