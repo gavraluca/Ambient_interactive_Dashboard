@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7860116-21e6-40cb-bc22-358fa2dc3973" name="Changes" comment="Uploaded default current_data.">
+    <list default="true" id="d7860116-21e6-40cb-bc22-358fa2dc3973" name="Changes" comment="Added function for reading data (GET)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,23 +21,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="gavraluca &lt;glm21@yahoo.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gavraluca"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gavraluca&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gavraluca/Ambient_interactive_Dashboard.git",
-    "accountId": "5eda347d-a4b3-48d0-9279-b820f1313a59"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gavraluca/Ambient_interactive_Dashboard.git&quot;,
+    &quot;accountId&quot;: &quot;5eda347d-a4b3-48d0-9279-b820f1313a59&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3ATQAqrJCiCyvR2TinLFv3YpfMQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,6 +52,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -108,12 +115,46 @@
       <option name="project" value="LOCAL" />
       <updated>1772616387219</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Uploaded default current_data.">
+      <option name="closed" value="true" />
+      <created>1772616808436</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772616808436</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Uploaded default current_data.">
+      <option name="closed" value="true" />
+      <created>1772616843522</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772616843522</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Implemented code for ESP32 WI-FI communication">
+      <option name="closed" value="true" />
+      <created>1772616900207</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772616900207</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added function for reading data (GET)">
+      <option name="closed" value="true" />
+      <created>1772617109676</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772617109676</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First time" />
     <MESSAGE value="Uploaded default current_data." />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded default current_data." />
+    <MESSAGE value="Implemented code for ESP32 WI-FI communication" />
+    <MESSAGE value="Added function for reading data (GET)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added function for reading data (GET)" />
   </component>
 </project>
