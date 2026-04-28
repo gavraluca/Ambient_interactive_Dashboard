@@ -7,8 +7,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* SSID = "DIGI_6e3520";
-const char* PASSWORD = "aa2191ca";
+const char* SSID = "add_Your_WIFI_Name_here";
+const char* PASSWORD = "add_your_WIFI_Password_here";
 const char* serverUrl = "http://192.168.1.6:5000/api/update";
 
 
@@ -146,9 +146,9 @@ void loop() {
   Serial.print("Air Quality Value: ");
   Serial.println(air);
   
-  // still trying...
+  // trying
   static int count = 0;
-  Serial.print("still trying... ");
+  Serial.print("Still trying... Please wait! ");
   Serial.println(count++);
   
   delay(2000);
